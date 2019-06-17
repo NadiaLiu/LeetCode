@@ -25,3 +25,4 @@ class Solution:
             l3.next = ListNode(list3[j])
             l3 = l3.next
         return head.next
+        
